@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/14-sep-app/static/css/main.e929de8e.css",
+    "main.js": "/14-sep-app/static/js/main.0df77be2.js",
+    "static/media/bgbeach.png": "/14-sep-app/static/media/bgbeach.626d9b2c054e036c783e.png",
+    "index.html": "/14-sep-app/index.html",
+    "main.e929de8e.css.map": "/14-sep-app/static/css/main.e929de8e.css.map",
+    "main.0df77be2.js.map": "/14-sep-app/static/js/main.0df77be2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e929de8e.css",
+    "static/js/main.0df77be2.js"
+  ]
+}
